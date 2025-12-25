@@ -7,3 +7,4 @@
 [2026-03-12] #0007  Added type hints  // chore: add MIT license
 [2026-03-12] #0008  Added early-return pattern  // docs: add lab execution screenshot showing encrypter an
 [2026-03-12] #0009  Cleaned up unused imports  // arquivo deletado
+[2026-03-12] #0010  Added input validation  // chore: initialize ransomware lab structure
