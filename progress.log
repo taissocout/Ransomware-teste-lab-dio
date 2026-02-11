@@ -8,3 +8,4 @@
 [2026-03-12] #0008  Added early-return pattern  // docs: add lab execution screenshot showing encrypter an
 [2026-03-12] #0009  Cleaned up unused imports  // arquivo deletado
 [2026-03-12] #0010  Added input validation  // chore: initialize ransomware lab structure
+[2026-03-12] #0011  Extracted helper function  // feat: add educational encrypter using Fernet AES-128-CB
