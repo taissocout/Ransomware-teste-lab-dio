@@ -11,3 +11,4 @@
 [2026-03-12] #0011  Extracted helper function  // feat: add educational encrypter using Fernet AES-128-CB
 [2026-03-12] #0012  Extracted helper function  // feat: add decrypter for environment restoration
 [2026-03-12] #0013  Added guard clause  // docs: add MITRE ATT&CK mapping T1486
+[2026-03-12] #0014  Improved error messages  // security: add lab safety guardrails
