@@ -14,3 +14,4 @@
 [2026-03-12] #0014  Improved error messages  // security: add lab safety guardrails
 [2026-03-12] #0015  Updated inline documentation  // fix: correct key file path handling
 [2026-03-12] #0016  Centralised constants  // docs: add setup instructions for isolated VM
+[2026-03-12] #0017  Fixed off-by-one error  // refactor: improve encrypter error handling
